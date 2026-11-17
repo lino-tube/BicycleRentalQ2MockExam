@@ -1,0 +1,7 @@
+DATA LOG
+********************************
+Customer Name: Nandi Maseko
+Rental Days: 3
+VAT: R 27.0
+TOTAL: R 621.0
+********************************
